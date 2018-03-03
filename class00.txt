@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 print("Hello, world;")
 print("Something changed!;")
 print("One more string!!!;")
 print("Hello once again;")
-print("Hello once again;")
-print("Hello once again;")
+print("Hello-Hi-Hello-and-So-On;")
+print("Glas to see you;")
